@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/rich-miner">
+		<meta name="twitter:title" content="GV / Rich Miner">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / Rich Miner">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/rich-miner">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / Rich Miner</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/rich-miner.jpg"
+						alt="Photo of Rich Miner" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">Rich Miner</h2>
+						<p class="bio-title">GV Adviser</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>Rich co-founded Android and is a pioneer in the mobile space. </p>
+<p>Rich is based in Cambridge, Mass. He has over 25 years of experience growing businesses with innovative communications and interface-intensive applications. </p>
+<p>Rich established GV’s east coast investing team in 2009 and was a general partner with the fund for seven years. He came to Google through the acquisition of Android, a mobile platforms company that he co-founded. During his early years at Google, he helped lead the development of the Android platform and ecosystem. Prior to Android, Rich was a vice president at Orange, where he led R&amp;D activities in North America and was an original principal at Orange Ventures when it was founded. Rich came to Orange through the acquisition of another company he co-founded, Wildfire, which developed a voice-based personal assistant. </p>
+<p>Rich received his Ph.D. in computer science from the University of Massachusetts at Lowell.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/richminer" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@richminer
+						</a>
+						<a href="http://www.linkedin.com/in/richminer" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.dialpad.com"
+				             data-name="Dialpad"
+				             data-about="Dialpad provides cloud-based voice, messaging, video, and meetings that let the most innovative companies connect everyone, be everywhere, and create anything."
+				             
+				               data-color="#0080ff"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/dialpad.png" alt="Dialpad logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #0080ff;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.adelphic.com"
+				             data-name="Adelphic Mobile"
+				             data-about="Adelphic Mobile enables targeted, audience-based advertising at scale."
+				             data-exit="* Acquired by Viant, 2017"
+				               data-color="#84c446"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/adelphic-mobile.png" alt="Adelphic Mobile logo"/>
+				          <div class="portfolioLogos-note">Acquired by Viant, 2017</div>
+				          <div class="portfolioLogos-background" style="background-color: #84c446;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://nextbit.com"
+				             data-name="Nextbit"
+				             data-about="Nextbit is building groundbreaking technology to take mobile to the next level."
+				             data-exit="* Acquired by Razer, 2017"
+				               data-color="#9adada"
+				               
+				             >
+				          <img class="portfolioLogos-image " src="/img/companies/nextbit.png" alt="Nextbit logo"/>
+				          <div class="portfolioLogos-note">Acquired by Razer, 2017</div>
+				          <div class="portfolioLogos-background" style="background-color: #9adada;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.hubspot.com"
+				             data-name="HubSpot"
+				             data-about="HubSpot offers an all-in-one marketing software platform for small and medium sized businesses. Thousands of companies in dozens of countries use HubSpot software to increase the number of visitors to their websites and convert more of those visitors to leads and customers."
+				             data-exit="* NYSE: HUBS"
+				               data-color="#f7761f"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/hubspot.png" alt="HubSpot logo"/>
+				          <div class="portfolioLogos-note">NYSE: HUBS</div>
+				          <div class="portfolioLogos-background" style="background-color: #f7761f;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.apteligent.com"
+				               data-name="Apteligent"
+				               data-about="Apteligent offers tools that empower mobile developers and PMs to troubleshoot, prioritize, and resolve issues damaging their users’ app experience."
+				               
+				               >
+				            Apteligent
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.collaborate.com"
+				               data-name="Collaborate"
+				               data-about="Collaborate is a unified document sharing, task management, and team communication platform for today&#x27;s mobile workforce."
+				               data-exit="* Acquired by Cisco, 2013"
+				               >
+				            Collaborate
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://cordproject.co"
+				               data-name="Cord"
+				               data-about="Cord is a voice messaging platform designed for incredibly simple “one tap voice chat” across a wide variety of devices. Cord combines the best of asynchronous communication, innovative user experience, and the emotional power of voice to create a new take on voice messaging."
+				               data-exit="* Acquired by Spotify, 2016"
+				               >
+				            Cord
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.divide.com"
+				               data-name="Divide"
+				               data-about="Divide enables professionals to consolidate work and personal life onto a single mobile device without compromises. Its dual persona technology contains great productivity apps and complete personal and IT cloud management. (Divide was acquired by Google in May 2014.)"
+				               data-exit="* Acquired by Google, 2014"
+				               >
+				            Divide
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.heartthis.com"
+				               data-name="HeartThis"
+				               data-about="HeartThis lets online shoppers browse all their favorite stores in one place."
+				               data-exit="* Acquired by Thumbtack, 2015"
+				               >
+				            HeartThis
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.thelevelup.com"
+				               data-name="LevelUp"
+				               data-about="LevelUp is a free mobile app that enables you to pay with your phone."
+				               
+				               >
+				            LevelUp
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.messageme.com"
+				               data-name="MessageMe"
+				               data-about="MessageMe is a fast and fun way to chat. Drop the need for SMS and exchange one-on-one or group text messages worldwide at no cost."
+				               data-exit="* Acquired by Yahoo, 2014"
+				               >
+				            MessageMe
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.mitro.co"
+				               data-name="Mitro"
+				               data-about="Mitro is a password manager for teams and businesses that securely saves all your logins and lets you share them in your web browser. (Mitro was acquired by Twitter in July 2014.)"
+				               data-exit="* Acquired by Twitter, 2014"
+				               >
+				            Mitro
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.recordedfuture.com"
+				               data-name="Recorded Future"
+				               data-about="Recorded Future arms organizations with real-time threat intelligence, allowing them to proactively defend against cyber attacks. With billions of indexed facts from the open Web, and more added every day, the company gives unmatched insight into emerging threats."
+				               
+				               >
+				            Recorded Future
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.schematiclabs.com"
+				               data-name="Schematic Labs"
+				               data-about="Schematic Labs makes SoundTracking, which combines music identification, photo-sharing, and location check-ins to enable you to share the soundtrack to your life."
+				               data-exit="* Acquired by Rhapsody, 2014"
+				               >
+				            Schematic Labs
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.smarterer.com"
+				               data-name="Smarterer"
+				               data-about="Smarterer is a platform designed to score individuals on digital, social, and technical skills. Using crowdsourced test design and a scoring mechanism similar to the one developed to rank chess masters, Smarterer can identify someone&#x27;s skill in just 60 seconds with 10 questions."
+				               data-exit="* Acquired by Pluralsight, 2014"
+				               >
+				            Smarterer
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.usesold.com"
+				               data-name="Sold"
+				               data-about="Sold is a new mobile service that reinvents the selling process for online marketplaces. Sold makes selling easy through smart pricing analytics and a refined user experience."
+				               data-exit="* Acquired by Dropbox, 2013"
+				               >
+				            Sold
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.stamped.com"
+				               data-name="Stamped"
+				               data-about="Stamped is a new way for friends to put their stamp of approval on only what they like best—restaurants, books, movies, music, and more."
+				               data-exit="* Acquired by Yahoo!, 2012"
+				               >
+				            Stamped
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.tenxer.com"
+				               data-name="tenXer"
+				               data-about="tenXer is a personal productivity service designed to revolutionize human capital management by combining performance data with social and game-like motivation systems. tenXer makes work better and your work better."
+				               data-exit="* Acquired by Twitter, 2015"
+				               >
+				            tenXer
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.thinknear.com"
+				               data-name="ThinkNear"
+				               data-about="ThinkNear helps local merchants increase profitability with a yield management solution. The product requires no hardware, takes under 5 minutes to set-up, and runs in the background, continuously getting smarter about which discounts and channels to use to keep merchants as busy as possible at all times."
+				               data-exit="* Acquired by Telenav, 2012"
+				               >
+				            ThinkNear
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://pos.toasttab.com"
+				               data-name="Toast"
+				               data-about="Toast is an all-in-one restaurant management system."
+				               
+				               >
+				            Toast
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.tracelytics.com"
+				               data-name="Tracelytics"
+				               data-about="Tracelytics provides next-generation application performance management (APM) software as a service. Tracelytics&#x27; solution offers customers insight into the performance of their web applications, revealing what&#x27;s going wrong and what could be done better."
+				               data-exit="* Acquired by AppNeta, 2012"
+				               >
+				            Tracelytics
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.ubersense.com"
+				               data-name="UberSense"
+				               data-about="UberSense is creating a smart software solution that helps athletes achieve their full athletic ability using video and collaboration."
+				               data-exit="* Acquired by Hudl, 2014"
+				               >
+				            UberSense
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.onwander.com"
+				               data-name="Wander"
+				               data-about="Wander is a beautiful way to share and experience the world."
+				               data-exit="* Exited to Yahoo!, 2014"
+				               >
+				            Wander
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/dave-munichiello">
+		<meta name="twitter:title" content="GV / Dave Munichiello">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / Dave Munichiello">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/dave-munichiello">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / Dave Munichiello</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/dave-munichiello.jpg"
+						alt="Photo of Dave Munichiello" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">Dave Munichiello</h2>
+						<p class="bio-title">General Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>Dave is a general partner at GV. His background is in building and leading enterprise software sales and operations teams for highly-technical products, under pressure in rapidly-changing markets.</p>
+<p>Dave joins GV from the executive leadership team of Kiva Systems, where he helped grow the enterprise-enabling robotics company to $100 million in annual revenue before it was purchased by Amazon for $775 million. Dave’s four years at Kiva were spent launching, leading, and growing enterprise sales, account management, pre-sales, professional services, and support organizations. He established a reputation for consistently recruiting top talent and leading high-performing teams. Dave played a key role at Kiva through its first year of integration with Amazon, as his organizations refocused to maximize the impact of Kiva’s continually-learning system on Amazon’s business for years to come.</p>
+<p>Dave’s career prior to Kiva included management consulting for The Boston Consulting Group and leading teams as a Captain in the U.S. military’s most elite units. His military leadership roles ranged from running a high-tech organization in Europe; to serving as an Aide de Camp to the Four Star General responsible for U.S. forces in Europe, Africa, and Afghanistan; to deploying with elite special operations teams worldwide, ensuring they were enabled by the world’s most advanced technologies.</p>
+<p>Dave holds an MBA from Harvard Business School and a B.S. from Emory University in math and computer science.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/davemuni" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@davemuni
+						</a>
+						<a href="http://www.linkedin.com/in/davemuni" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://slack.com"
+				             data-name="Slack"
+				             data-about="Slack is a messaging and search platform that brings team communication into one place, creating a single unified archive accessible through powerful search."
+				             
+				               data-color="#3eb991"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/slack.png" alt="Slack logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #3eb991;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.jet.com"
+				             data-name="Jet"
+				             data-about="Jet is a members-only online shopping club that brings customers the lowest prices by unbundling the retail costs that drive up price."
+				             data-exit="* Acquired by Walmart, 2016"
+				               data-color="#8200ff"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/jet.png" alt="Jet logo"/>
+				          <div class="portfolioLogos-note">Acquired by Walmart, 2016</div>
+				          <div class="portfolioLogos-background" style="background-color: #8200ff;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://coreos.com"
+				             data-name="CoreOS"
+				             data-about="CoreOS improves the security and reliability of the Internet, enabling companies to run their applications securely and reliably in any environment they see fit."
+				             
+				               data-color="#e9465b"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/coreos.png" alt="CoreOS logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #e9465b;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://cockroachlabs.com"
+				             data-name="Cockroach Labs"
+				             data-about="Cockroach Labs helps developers build and deploy scalable applications that can survive datacenter-scale outages."
+				             
+				               data-color="#46a417"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/cockroach-labs.png" alt="Cockroach Labs logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #46a417;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.lattice.io"
+				             data-name="Lattice"
+				             data-about="Lattice unlocks the value of unstructured data, creating structured data with human-caliber quality at machine-caliber scale."
+				             
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/lattice.png" alt="Lattice logo"/>
+				          
+				          <div class="portfolioLogos-background" ></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.thousandeyes.com"
+				             data-name="ThousandEyes"
+				             data-about="ThousandEyes is a network intelligence platform that provides immediate insights across all the networks and connected devices organizations rely on."
+				             
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/thousandeyes.png" alt="ThousandEyes logo"/>
+				          
+				          <div class="portfolioLogos-background" ></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.datafox.co"
+				               data-name="DataFox"
+				               data-about="DataFox is a data platform for insights on private company intelligence."
+				               
+				               >
+				            DataFox
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://plaid.io"
+				               data-name="Plaid"
+				               data-about="Plaid is the modern API for banking data that allows developers to programmatically interact with banks and credit cards."
+				               
+				               >
+				            Plaid
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.premise.is"
+				               data-name="Premise"
+				               data-about="Premise is real-time data for a streaming global economy. They build machinery to organize, measure, and index the collective enterprise of the human race."
+				               
+				               >
+				            Premise
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://skyportsystems.net"
+				               data-name="Skyport Systems"
+				               data-about="Skyport Systems offers a new approach to enterprise security by providing simple and effective secure-computing infrastructure for enterprise applications."
+				               
+				                 data-color="#f37d20"
+				                 data-colorIsDark="1"
+				               >
+				            Skyport Systems
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               
+				               data-name="Space Monkey"
+				               data-about="Space Monkey gives consumers all the benefits of a traditional cloud service at a fraction of the cost — with the speed and space of local data storage."
+				               data-exit="* Acquired by Vivint, 2014"
+				               >
+				            Space Monkey
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://shopvida.com"
+				               data-name="VIDA"
+				               data-about="VIDA is an online retail store of exclusive apparel designed by a partnership of designers, artists, and makers from around the world."
+				               
+				               >
+				            VIDA
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.walkerandcompany.com"
+				               data-name="Walker and Company"
+				               data-about="Walker and Company makes health and beauty products for people of color."
+				               
+				                 data-color="#231f20"
+				                 data-colorIsDark="1"
+				               >
+				            Walker and Company
+				            
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

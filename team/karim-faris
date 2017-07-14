@@ -1,0 +1,566 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/karim-faris">
+		<meta name="twitter:title" content="GV / Karim Faris">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / Karim Faris">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/karim-faris">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / Karim Faris</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/karim-faris.jpg"
+						alt="Photo of Karim Faris" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">Karim Faris</h2>
+						<p class="bio-title">General Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>Karim leads GV’s investments in enterprise software, data analytics, and security. He brings over a decade of operational and investment experience to his role. He initially joined Google’s corporate development team in 2008, the group responsible for all mergers and acquisitions and has been at GV since inception.</p>
+<p>Prior to Google, Karim was a venture capitalist at Atlas Venture, where he worked on investments in software and Internet infrastructure. Previously, he was director of New Ventures at Level 3 Communications, responsible for evaluating new business opportunities and has led product development for the company’s voice services. Earlier in his career, Karim held various product and marketing roles at Intel, initially on the i486™, and later as product manager for the Pentium® Processor. He started his career at Siemens as a software engineer working on the first vehicle navigation system for BMW.</p>
+<p>Karim holds an MBA from the Harvard Business School, an M.S. in electrical engineering from the University of Michigan, and a B.S. in computer engineering from Brown University where he published several papers on neural networks.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/karimfaris" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@karimfaris
+						</a>
+						<a href="http://www.linkedin.com/in/karimfaris" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.cloudera.com"
+				             data-name="Cloudera"
+				             data-about="Cloudera ​provides Apache Hadoop-based software and services ​that allow enterprises to store, process, and analyze their data in one place. ​"
+				             data-exit="* NYSE: CLDR"
+				               data-color="#004d6f"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/cloudera.png" alt="Cloudera logo"/>
+				          <div class="portfolioLogos-note">NYSE: CLDR</div>
+				          <div class="portfolioLogos-background" style="background-color: #004d6f;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.duosecurity.com"
+				             data-name="Duo Security"
+				             data-about="Duo Security makes multi-factor authentication radically easy to deploy, use, and manage by leveraging mobile phones for transaction verification to help make the Internet more secure."
+				             
+				               data-color="#469c2d"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/duo-security.png" alt="Duo Security logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #469c2d;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://docusign.com"
+				             data-name="DocuSign"
+				             data-about="DocuSign is the leader in eSignature transaction management and the global standard for eSignature. DocuSign helps companies securely collect information and payment, automate data workflows, and sign anything, anywhere, anytime."
+				             
+				               data-color="#1b49a0"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/docusign.png" alt="DocuSign logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #1b49a0;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.ionicsecurity.com"
+				             data-name="Ionic Security"
+				             data-about="Ionic Security takes a comprehensive approach to securing data in today’s borderless enterprise."
+				             
+				               data-color="#e9272b"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/ionic-security.png" alt="Ionic Security logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #e9272b;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://anomali.com"
+				               data-name="Anomali"
+				               data-about="Anomali addresses cyber security challenges for organizations of all sizes by correlating millions of threat indicators against real time network activity logs and historical forensic log data."
+				               
+				                 data-color="#005189"
+				                 data-colorIsDark="1"
+				               >
+				            Anomali
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.appurify.com"
+				               data-name="Appurify"
+				               data-about="Appurify provides a complete solution for automatically testing and debugging mobile apps. Appurify’s platform offers live access to real, fully-configurable iOS and Android devices in the cloud, accompanied by powerful testing and debugging tools."
+				               data-exit="* Acquired by Google, 2014"
+				               >
+				            Appurify
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.clearstorydata.com"
+				               data-name="ClearStory Data"
+				               data-about="ClearStory Data is focused on enabling self-driven big data exploration. ClearStory Data is making it easy for business users to gather and explore big, diverse, dispersed data from databases, Hadoop, and the Web for more intuitive insights."
+				               
+				               >
+				            ClearStory Data
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.cliqr.com"
+				               data-name="CliQr Technologies"
+				               data-about="CliQr Technologies enables existing business applications to fluidly move to and between clouds."
+				               data-exit="* Acquired by Cisco, 2016"
+				                 data-color="#f28c20"
+				                 data-colorIsDark="1"
+				               >
+				            CliQr Technologies
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://cohesity.com"
+				               data-name="Cohesity"
+				               data-about="Cohesity brings together fractured secondary data sources into a single platform, helping companies store, protect, and learn from their data instantly."
+				               
+				               >
+				            Cohesity
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.cybergrx.com"
+				               data-name="CyberGRX"
+				               data-about="CyberGRX is a cyber risk exchange platform designed to make it simple and cost effective to get up-to-date, comprehensive, one-click access to third-party cyber risk assessments."
+				               
+				               >
+				            CyberGRX
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://dasient.twitter.com"
+				               data-name="Dasient"
+				               data-about="Dasient is a leader in anti-malware technology. Their suite of products protects the websites of e-commerce, media, web hosting, financial services, and other global enterprises from losses of data, revenue and reputation caused by web-based malware attacks."
+				               data-exit="* Acquired by Twitter, 2012"
+				               >
+				            Dasient
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.datafox.co"
+				               data-name="DataFox"
+				               data-about="DataFox is a data platform for insights on private company intelligence."
+				               
+				               >
+				            DataFox
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.egnyte.com"
+				               data-name="Egnyte"
+				               data-about="Egnyte delivers cloud and hybrid-cloud storage and file-sharing solutions for businesses — from small office to enterprise organizations. Combining the scalability and security of the cloud with the speed and availability of local access, Egnyte increases business users’ productivity while allowing IT to maintain control."
+				               
+				               >
+				            Egnyte
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.expectlabs.com"
+				               data-name="Expect Labs"
+				               data-about="Expect Labs is reinventing conversation through the power of anticipatory computing."
+				               
+				               >
+				            Expect Labs
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.fullstory.com"
+				               data-name="FullStory"
+				               data-about="FullStory helps product and support teams easily understand the customer experience by capturing every user event with a simple script."
+				               
+				                 data-color="#448ee1"
+				                 data-colorIsDark="1"
+				               >
+				            FullStory
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://headspin.io"
+				               data-name="HeadSpin"
+				               data-about="HeadSpin is a testing platform for mobile apps that allows developers to test and monitor real devices instantly on global cell networks."
+				               
+				               >
+				            HeadSpin
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               
+				               data-name="Hipster"
+				               data-about="Hipster is a fun way to help uncover the vast amount of information about real world locations that isn’t yet available online. (Hipster was acquired by AOL in March 2012.)"
+				               data-exit="* Acquired by AOL, 2012"
+				               >
+				            Hipster
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.mist.com"
+				               data-name="Mist"
+				               data-about="Mist built the first intelligent wireless network products that leverage machine learning. Using Mist, enterprises can provide consistent and reliable Wi-Fi, and IT can proactively manage the network at any scale."
+				               
+				               >
+				            Mist
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.ondeck.com"
+				               data-name="OnDeck"
+				               data-about="OnDeck is using technology to make the borrowing process simple, fast, and transparent for small-business owners nationwide."
+				               data-exit="* NYSE: ONDK"
+				               >
+				            OnDeck
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://getpoynt.com"
+				               data-name="Poynt"
+				               data-about="Poynt created a smart payment terminal to help small businesses access best-­in-­class technology with elegantly designed software and hardware."
+				               
+				               >
+				            Poynt
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.premise.is"
+				               data-name="Premise"
+				               data-about="Premise is real-time data for a streaming global economy. They build machinery to organize, measure, and index the collective enterprise of the human race."
+				               
+				               >
+				            Premise
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.puppetlabs.com"
+				               data-name="Puppet Labs"
+				               data-about="Puppet Labs gives systems administrators the operational agility, efficiency, and insight they need to manage dynamic infrastructure, on-premise or in the cloud."
+				               
+				               >
+				            Puppet Labs
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://retailmenot.com"
+				               data-name="RetailMeNot"
+				               data-about="RetailMeNot is the world’s leading digital coupon marketplace. The company’s websites enable consumers across the globe to save money with hundreds of thousands of digital coupons from retailers. (Initial public offering on July 19, 2013. (SALE))"
+				               data-exit="* NASDAQ: SALE"
+				               >
+				            RetailMeNot
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.securityscorecard.com"
+				               data-name="Security&amp;#8203;Scorecard"
+				               data-about="SecurityScorecard provides the most accurate rating of security risk for any organization worldwide."
+				               
+				                 data-color="#1abc9c"
+				                 data-colorIsDark="1"
+				               >
+				            Security&#8203;Scorecard
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.shapesecurity.com"
+				               data-name="Shape Security"
+				               data-about="Shape Security is developing a new class of web security products to dramatically alter the economics of web hacking."
+				               
+				               >
+				            Shape Security
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.subtext.com"
+				               data-name="Subtext"
+				               data-about="Subtext is a digital reading company with a vision to power the largest community of readers, authors, and experts in the pages of ebooks. The service&#x27;s social networking and enrichment features lay over standard ebooks to transform reading into a social activity and connect books to the Web."
+				               data-exit="* Acquired by Renaissance Learning, 2013"
+				               >
+				            Subtext
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.sweetlabs.com"
+				               data-name="SweetLabs"
+				               data-about="SweetLabs makes Pokki, an application platform that brings media-rich HTML5 web apps to the desktop, and the OpenCandy Software Network, which offers software recommendations through the download and installation process."
+				               
+				               >
+				            SweetLabs
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://synack.com"
+				               data-name="Synack"
+				               data-about="Synack is redefining the traditional model of security testing with technology that allows customers to safely engage a global, on-demand community of trusted security researchers. Synack’s scalable platform enables rapid and efficient vulnerability discovery."
+				               
+				               >
+				            Synack
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.tamr.com"
+				               data-name="Tamr"
+				               data-about="Tamr is a data connection platform that dramatically reduces the time and effort required to connect and enrich data sources allowing data scientists, analysts, and managers to focus on data-driven innovation."
+				               
+				                 data-color="#4596b6"
+				                 data-colorIsDark="1"
+				               >
+				            Tamr
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.upthere.com"
+				               data-name="Upthere"
+				               data-about="Upthere is building the future of the cloud."
+				               
+				               >
+				            Upthere
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://veem.com"
+				               data-name="Veem"
+				               data-about="Veem is a next-generation platform that enables business-to-business payments in local currency."
+				               
+				               >
+				            Veem
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.zencoder.com"
+				               data-name="Zencoder"
+				               data-about="Zencoder offers high-performance video encoding as a service in the cloud. Zencoder is also the creator of VideoJS, the leading open-source HTML5 video player."
+				               data-exit="* Acquired by Brightcove, 2012"
+				               >
+				            Zencoder
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

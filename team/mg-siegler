@@ -1,0 +1,581 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/mg-siegler">
+		<meta name="twitter:title" content="GV / M.G. Siegler">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / M.G. Siegler">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/mg-siegler">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / M.G. Siegler</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/mg-siegler.jpg"
+						alt="Photo of M.G. Siegler" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">M.G. Siegler</h2>
+						<p class="bio-title">General Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>M.G. Siegler is a general partner at GV, where he primarily focuses on early-stage investments. He has been deeply involved in the startup space since 2005, first as a web developer, then as a writer, and most recently as an investor and adviser.</p>
+<p>Before joining GV, M.G. was a founding partner of CrunchFund, an early-stage investment fund. Prior to that, he reported on the startup world as a writer for both TechCrunch and VentureBeat. M.G. still writes regularly for 500ish, his Medium publication and from time-to-time doing movie reviews in haiku format.</p>
+<p>Originally from Ohio, M.G. graduated from the University of Michigan in Ann Arbor before moving out west to work in Hollywood. One day, he will write that killer screenplay.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/mgsiegler" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@mgsiegler
+						</a>
+						<a href="http://www.linkedin.com/in/mgsiegler" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+						<a href="http://mgsiegler.com" class="bio-link theme-colorHover">
+							<div class="icon icon--website icon--bio"></div>
+							mgsiegler.com
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://medium.com"
+				             data-name="Medium"
+				             data-about="Medium is a long-form blogging platform that algorithmically curates popular posts."
+				             
+				               data-color="#42fa91"
+				               
+				             >
+				          <img class="portfolioLogos-image " src="/img/companies/medium.png" alt="Medium logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #42fa91;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://slack.com"
+				             data-name="Slack"
+				             data-about="Slack is a messaging and search platform that brings team communication into one place, creating a single unified archive accessible through powerful search."
+				             
+				               data-color="#3eb991"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/slack.png" alt="Slack logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #3eb991;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://stripe.com"
+				             data-name="Stripe"
+				             data-about="Stripe is the best way to accept payments online and in mobile apps."
+				             
+				               data-color="#6772e5"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/stripe.png" alt="Stripe logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #6772e5;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://giphy.com"
+				             data-name="Giphy"
+				             data-about="Giphy is the best way to search, share, and discover GIFs on the Internet."
+				             
+				               data-color="#9A20FF"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/giphy.png" alt="Giphy logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #9A20FF;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.periscope.tv"
+				             data-name="Periscope"
+				             data-about="Periscope lets you broadcast live video to the world. Going live instantly notifies your followers who can join, comment, and send you hearts in real time."
+				             data-exit="* Acquired by Twitter, 2015"
+				               data-color="#d55548"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/periscope.png" alt="Periscope logo"/>
+				          <div class="portfolioLogos-note">Acquired by Twitter, 2015</div>
+				          <div class="portfolioLogos-background" style="background-color: #d55548;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.abacus.com"
+				               data-name="Abacus"
+				               data-about="Abacus is a simple way to manage business expenses. Managers save money with increased control, and employees get paid back right away."
+				               
+				               >
+				            Abacus
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://altvr.com"
+				               data-name="AltspaceVR"
+				               data-about="Altspace VR is a social platform for virtual reality that allows users to watch streaming video, play games, and work collaboratively inside of virtual spaces."
+				               
+				               >
+				            AltspaceVR
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.ambition.com"
+				               data-name="Ambition"
+				               data-about="Ambition helps companies track and motivate their sales organizations with a gamified, fantasy football-like productivity platform."
+				               
+				               >
+				            Ambition
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.aminoapps.com"
+				               data-name="Amino"
+				               data-about="Amino connects like-minded people passionate about similar interests through mobile micro communities."
+				               
+				               >
+				            Amino
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://apptimize.com"
+				               data-name="Apptimize"
+				               data-about="Apptimize provides A/B testing for native mobile apps on Android and iOS."
+				               
+				               >
+				            Apptimize
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://cambly.com"
+				               data-name="Cambly"
+				               data-about="Cambly connects English students from around the world with native English speakers to improve their spoken language skills."
+				               
+				               >
+				            Cambly
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://getconfide.com"
+				               data-name="Confide"
+				               data-about="Confide is a new way to send confidential messages off the record."
+				               
+				               >
+				            Confide
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.datanyze.com"
+				               data-name="Datanyze"
+				               data-about="Datanyze is a sales prospecting platform that provides sales and marketing professionals with data on who is using competitors&#x27; sites, helping optimize for lead generation, customer retention, and targeting."
+				               
+				               >
+				            Datanyze
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://digit.co"
+				               data-name="Digit"
+				               data-about="Digit automates saving money by learning your spending habits and transferring a small amount to savings every week."
+				               
+				               >
+				            Digit
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.emissary.io"
+				               data-name="Emissary"
+				               data-about="Emissary connects experts with specialized knowledge to companies and teams that find their knowledge uniquely valuable."
+				               
+				               >
+				            Emissary
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.framed.io"
+				               data-name="Framed"
+				               data-about="Framed helps businesses retain high-value customers through predictive machine learning products."
+				               data-exit="* Acquired by Square, 2016"
+				               >
+				            Framed
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.jauntvr.com"
+				               data-name="Jaunt"
+				               data-about="Jaunt is developing next-generation technology for creating cinematic virtual reality, enabling creatives to film, edit, and process live-action content for virtual reality viewers."
+				               
+				                 data-color="#c1f23a"
+				                 
+				               >
+				            Jaunt
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.launchkit.io"
+				               data-name="LaunchKit"
+				               data-about="LaunchKit is a suite of tools that makes it easier to build, launch, and manage mobile apps."
+				               data-exit="* Acquired by Google, 2016"
+				               >
+				            LaunchKit
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://loom.com"
+				               data-name="Loom"
+				               data-about="Loom is your entire photo and video library, unified in one place, accessible from any device."
+				               data-exit="* Acquired by Dropbox, 2014"
+				               >
+				            Loom
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.lotusflare.com"
+				               data-name="LotusFlare"
+				               data-about="LotusFlare makes mobile Internet affordable and available through access technology and partnerships with operators and mobile apps."
+				               
+				               >
+				            LotusFlare
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://managedbyq.com"
+				               data-name="Managed by Q"
+				               data-about="Managed by Q is building an operating system for offices by combining people, products, and technology to effectively run office operations."
+				               
+				                 data-color="#44b44e"
+				                 data-colorIsDark="1"
+				               >
+				            Managed by Q
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://packagd.com"
+				               data-name="Packagd"
+				               data-about="Packagd is building a family of apps offering a new mobile shopping experience."
+				               
+				               >
+				            Packagd
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.quettra.com"
+				               data-name="Quettra"
+				               data-about="Quettra is a mobile advertising platform that uses an understanding of mobile users to help marketers reach the right audience at the right time on their phones."
+				               data-exit="* Acquired by SimilarWeb, 2015"
+				               >
+				            Quettra
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://reserve.com"
+				               data-name="Reserve"
+				               data-about="Reserve is a personal dining concierge in your pocket, helping you book a table at a restaurant and pay the bill all on your phone."
+				               
+				               >
+				            Reserve
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://rise.us"
+				               data-name="Rise"
+				               data-about="Rise is a mobile platform that connects people with personal nutrition coaches to help achieve health goals."
+				               data-exit="* Acquired by One Medical Group, 2016"
+				               >
+				            Rise
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.scoutrfp.com"
+				               data-name="ScoutRFP"
+				               data-about="Scout RFP makes the enterprise buying process painless for both buyers and suppliers with an intuitively designed cloud-based platform."
+				               
+				               >
+				            ScoutRFP
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.shelf.com"
+				               data-name="Shelf"
+				               data-about="Shelf is a place to catalog your favorite things and discover great products with people who actually use them. It is a constantly updated catalog of the world’s best products, curated by the people who use them regularly."
+				               
+				                 data-color="#7cc2a3"
+				                 data-colorIsDark="1"
+				               >
+				            Shelf
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.trysnowball.com"
+				               data-name="Snowball"
+				               data-about="Snowball makes it easier to keep track of all of your conversations by showing messages from your favorite social apps in one place."
+				               data-exit="* Acquired by Credit Karma, 2015"
+				               >
+				            Snowball
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.shopspring.com"
+				               data-name="Spring"
+				               data-about="Spring is an e-commerce platform that makes mobile shopping easier."
+				               
+				               >
+				            Spring
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://teem.com"
+				               data-name="Teem"
+				               data-about="Teem provides employee meeting tools and activity-driven insights, including conference room displays, streamlined visitor management, and detailed workplace analytics that drive better decisions on space and facilities utilization."
+				               
+				               >
+				            Teem
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.theplayerstribune.com"
+				               data-name="The Players&#x27; Tribune"
+				               data-about="The Players’ Tribune is a media company that provides athletes with a platform to connect directly with their fans, in their own words. Through long- and short-form stories, video series, and podcasts, The Players’ Tribune brings fans closer than ever to the games they love."
+				               
+				               >
+				            The Players' Tribune
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://urx.com"
+				               data-name="URX"
+				               data-about="URX creates product ads for mobile apps, enabling advertisers to link directly to product pages in their mobile apps."
+				               data-exit="* Acquired by Pinterest, 2016"
+				               >
+				            URX
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://shopvida.com"
+				               data-name="VIDA"
+				               data-about="VIDA is an online retail store of exclusive apparel designed by a partnership of designers, artists, and makers from around the world."
+				               
+				               >
+				            VIDA
+				            
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

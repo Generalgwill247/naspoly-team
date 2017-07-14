@@ -1,0 +1,475 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/joe-kraus">
+		<meta name="twitter:title" content="GV / Joe Kraus">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / Joe Kraus">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/joe-kraus">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / Joe Kraus</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/joe-kraus.jpg"
+						alt="Photo of Joe Kraus" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">Joe Kraus</h2>
+						<p class="bio-title">General Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>Joe has been with GV since 2009.</p>
+<p>Prior to GV, Joe was a two-time entrepreneur. In 1993, he co-founded Excite.com, an early Internet search engine, holding multiple positions in the company, including leadership roles in product, business development, and marketing. More recently, he co-founded JotSpot in 2004, a wiki company that was acquired by Google in 2006. While at Google, Joe had multiple product management roles including Blogger, Picasa, Sites, Friend Connect, and OpenSocial.</p>
+<p>In addition, Joe has been an active angel investor in multiple companies, including LinkedIn, Aardvark (sold to Google in 2010), Kongregate, and OpenCandy. Joe is also on the board of the Electronic Frontier Foundation (EFF.org).</p>
+<p>Joe received a B.A. from Stanford University.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/jkraus" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@jkraus
+						</a>
+						<a href="http://www.linkedin.com/in/jkraus" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+						<a href="http://joekraus.com" class="bio-link theme-colorHover">
+							<div class="icon icon--website icon--bio"></div>
+							joekraus.com
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://kabam.com"
+				             data-name="Kabam"
+				             data-about="Kabam is leading the next wave of gaming — hardcore social games — by publishing Massively Multiplayer Social Games (MMSGs) that combine the best elements of traditional and social gaming to appeal to a growing audience of gamers looking for highly immersive social games."
+				             data-exit="* Acquired by Netmarble, 2017"
+				               data-color="#fd6b17"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/kabam.png" alt="Kabam logo"/>
+				          <div class="portfolioLogos-note">Acquired by Netmarble, 2017</div>
+				          <div class="portfolioLogos-background" style="background-color: #fd6b17;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://tunein.com"
+				             data-name="TuneIn"
+				             data-about="TuneIn is a free service that lets people listen to music, sports, and news from around the world. TuneIn offers over 70,000 stations and 2 million on-demand programs, making it easy for people to listen to what they love."
+				             
+				               data-color="#36b4a7"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/tunein.png" alt="TuneIn logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #36b4a7;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.modsy.com"
+				             data-name="Modsy"
+				             data-about="Modsy allows you to see inspirational designs and decor within the context of your own home."
+				             
+				               data-color="#fdd305"
+				               
+				             >
+				          <img class="portfolioLogos-image " src="/img/companies/modsy.png" alt="Modsy logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #fdd305;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.classpass.com"
+				             data-name="ClassPass"
+				             data-about="ClassPass provides members with access to the largest network of fitness studios using a single pass."
+				             
+				               data-color="#20cfb1"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/classpass.png" alt="ClassPass logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #20cfb1;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://angel.co"
+				               data-name="AngelList"
+				               data-about="AngelList is a platform that makes fundraising efficient for both startups and investors."
+				               
+				                 data-color="#000000"
+				                 data-colorIsDark="1"
+				               >
+				            AngelList
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://checkr.io"
+				               data-name="Checkr"
+				               data-about="Checkr runs automated background checks, providing businesses with pre-employment background screenings and driving records."
+				               
+				               >
+				            Checkr
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.corduro.com"
+				               data-name="Corduro"
+				               data-about="Corduro offers a range of payment services for Internet, mobile, and traditional retail transactions."
+				               
+				               >
+				            Corduro
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.emergentvr.com"
+				               data-name="Emergent"
+				               data-about="Emergent is building the next medium for communication using virtual reality."
+				               
+				               >
+				            Emergent
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.gyft.com"
+				               data-name="Gyft"
+				               data-about="Gyft is a digital gift card platform that enables users to upload, send, and redeem gift cards. (Gyft was acquired by First Data in August 2014.)"
+				               data-exit="* Acquired by First Data, 2014"
+				               >
+				            Gyft
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.highfidelity.io"
+				               data-name="High Fidelity"
+				               data-about="High Fidelity is building a new virtual world enabling rich avatar interactions."
+				               
+				               >
+				            High Fidelity
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://highfive.com"
+				               data-name="Highfive"
+				               data-about="Highfive is reimagining the way people communicate at work."
+				               
+				               >
+				            Highfive
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://homeaway.com"
+				               data-name="HomeAway"
+				               data-about="HomeAway is the world&#x27;s leading online marketplace for vacation rentals and bed &amp;amp; breakfasts, connecting homeowners, property managers and innkeepers with the millions of travelers who seek the space, privacy and affordability of alternative accommodations instead of hotels."
+				               data-exit="* NASDAQ: AWAY"
+				               >
+				            HomeAway
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.homelight.com"
+				               data-name="HomeLight"
+				               data-about="HomeLight is a real estate technology company that matches homebuyers and sellers with top real estate agents. They create personalized recommendations by analyzing transactional data and the licensing records of over two million real estate agents."
+				               
+				               >
+				            HomeLight
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://jumpcam.com"
+				               data-name="JumpCam"
+				               data-about="JumpCam makes it easy to create collaborative videos. Start a video, invite others to add clips, and JumpCam stitches everything together into a single movie."
+				               
+				               >
+				            JumpCam
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.kamcord.com"
+				               data-name="Kamcord"
+				               data-about="Kamcord allows users to record and share video of their mobile game play."
+				               
+				               >
+				            Kamcord
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://keeptruckin.com"
+				               data-name="KeepTruckin"
+				               data-about="KeepTruckin provides next-generation technology for the trucking industry through a fleet management app for iOS and Android."
+				               
+				               >
+				            KeepTruckin
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.n3twork.com"
+				               data-name="N3twork"
+				               data-about="N3twork is a new type of content application that is reinventing the Internet experience with your interests at the very center."
+				               
+				               >
+				            N3twork
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.ngmoco.com"
+				               data-name="ngmoco"
+				               data-about="ngmoco games are played more than 50 million minutes a day and have been downloaded more than 60 million times on Apple&#x27;s iOS devices. The company&#x27;s Plus+ social network has over 13.5 million registered users."
+				               data-exit="* Acquired by DeNA, 2010"
+				               >
+				            ngmoco
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.getpocket.com"
+				               data-name="Pocket"
+				               data-about="Pocket is the leading service for content shifting. It’s for when people discover an interesting article, video or web page, but don’t have time to view it. Once saved to Pocket, the list of content is visible on any device — phone, tablet or computer — even offline."
+				               data-exit="* Acquired by Mozilla, 2017"
+				               >
+				            Pocket
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.sprucefinance.com"
+				               data-name="Spruce Finance"
+				               data-about="Spruce Finance provides homeowners with simple, affordable financing for residential solar systems, water conservation upgrades, and energy efficiency home improvements."
+				               
+				               >
+				            Spruce Finance
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://stitchapp.com"
+				               data-name="Stitch"
+				               data-about="Stitch is a mobile email app that allows salespeople to be as effective and responsive on the go as when sitting in front of a desk."
+				               
+				               >
+				            Stitch
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.sweetlabs.com"
+				               data-name="SweetLabs"
+				               data-about="SweetLabs makes Pokki, an application platform that brings media-rich HTML5 web apps to the desktop, and the OpenCandy Software Network, which offers software recommendations through the download and installation process."
+				               
+				               >
+				            SweetLabs
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.swell.am"
+				               data-name="Swell"
+				               data-about="Swell provides instant access to streaming audio news and information. Over time, it personalizes your stream with content based on your preferences and the wisdom of the community."
+				               data-exit="* Acquired in 2014"
+				               >
+				            Swell
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://turo.com"
+				               data-name="Turo"
+				               data-about="Turo is a car rental marketplace where travelers can rent any car they want, wherever they want it, from a nationwide community of local car owners."
+				               
+				               >
+				            Turo
+				            
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

@@ -1,0 +1,552 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/andy-wheeler">
+		<meta name="twitter:title" content="GV / Andy Wheeler">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / Andy Wheeler">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/andy-wheeler">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / Andy Wheeler</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/andy-wheeler.jpg"
+						alt="Photo of Andy Wheeler" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">Andy Wheeler</h2>
+						<p class="bio-title">General Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>Andy brings over a decade of startup experience to his role, most recently serving as chief technology officer of Adura, where he led the company’s development of energy management systems for commercial buildings. Prior to joining Adura, Andy served as chief technology officer for Tendril Networks, helping consumers better understand and manage their energy usage. He co-founded Ember Corporation, the leading provider of ZigBee network software and system-on-chip devices. Under Andy’s leadership, the company delivered multiple industry firsts, including shipping the first ZigBee system-on-chip, which is now in millions of the smart meters being deployed around the world. He began his startup career at Zipcar. Anyone who has used the car-sharing service has used the embedded wireless in-car technology that Andy developed.</p>
+<p>Andy got his start in wireless and embedded technologies at the MIT Media Lab where he deployed large scale sensor networks under a DARPA grant. He was selected for the Technology Review 100 Top Innovators Under 35 award in 2003, and has multiple granted and pending patents in the fields of wireless networking and energy management.</p>
+<p>Andy received a Bachelor of Science and Master of Engineering in electrical engineering and computer science from MIT.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://www.linkedin.com/pub/andrew-wheeler/5/4a3/973" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://carbon3d.com"
+				             data-name="Carbon"
+				             data-about="Carbon is delivering on the promise of 3D printing, allowing commercial customers to go beyond basic prototyping to achieve 3D manufacturing."
+				             
+				               data-color="#5a44fe"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/carbon3d.png" alt="Carbon logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #5a44fe;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.farmersbusinessnetwork.com"
+				             data-name="Farmers Business Network"
+				             data-about="Farmers Business Network generates powerful insights from real-time data to help farmers understand and improve their crop performance."
+				             
+				               data-color="#87b02c"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/farmers-business-network.png" alt="Farmers Business Network logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #87b02c;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://impossiblefoods.com"
+				             data-name="Impossible Foods"
+				             data-about="Impossible Foods is developing a new generation of meats and cheeses made entirely from plants."
+				             
+				               data-color="#8ab53f"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/impossible-foods.png" alt="Impossible Foods logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #8ab53f;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.airware.com"
+				             data-name="Airware"
+				             data-about="Airware is a development platform that enables entrepreneurs, educators, and enthusiasts to develop applications for unmanned aircraft systems."
+				             
+				               data-color="#ba2528"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/airware.png" alt="Airware logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #ba2528;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.abundantrobotics.com"
+				               data-name="Abundant Robotics"
+				               data-about="Abundant Robotics provides robotic solutions for the hardest jobs in agriculture."
+				               
+				               >
+				            Abundant Robotics
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.boweryfarming.com"
+				               data-name="Bowery"
+				               data-about="Bowery is the modern farming company growing the purest produce imaginable."
+				               
+				               >
+				            Bowery
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.circuithub.com"
+				               data-name="CircuitHub"
+				               data-about="CircuitHub is an electronics design facilitator whose mission is to take the frustration out of designing and manufacturing electronics."
+				               
+				               >
+				            CircuitHub
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://comfyapp.com"
+				               data-name="Comfy"
+				               data-about="Comfy is changing the way people interact with their workplaces, from the people who operate the building to the people who fill it."
+				               
+				                 data-color="#f0592c"
+				                 data-colorIsDark="1"
+				               >
+				            Comfy
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.coolplanet.com"
+				               data-name="Cool Planet Energy Systems"
+				               data-about="Cool Planet Energy Systems is developing negative carbon and carbon neutral fuels based on plant photosynthesis, which absorb carbon from the air."
+				               
+				               >
+				            Cool Planet Energy Systems
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.desktopmetal.com"
+				               data-name="Desktop Metal"
+				               data-about="Desktop Metal is reinventing the way design and manufacturing teams print with metal."
+				               
+				               >
+				            Desktop Metal
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.flexport.com"
+				               data-name="Flexport"
+				               data-about="Flexport is a freight management platform that helps companies optimize global supply chains."
+				               
+				               >
+				            Flexport
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.granular.ag"
+				               data-name="Granular"
+				               data-about="Granular’s cloud software and analytics platform helps farmers become more efficient and make better business decisions."
+				               
+				               >
+				            Granular
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.helium.com"
+				               data-name="Helium"
+				               data-about="Helium creates smart sensors for enterprise environments."
+				               
+				               >
+				            Helium
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://highfive.com"
+				               data-name="Highfive"
+				               data-about="Highfive is reimagining the way people communicate at work."
+				               
+				               >
+				            Highfive
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.kindred.ai"
+				               data-name="Kindred"
+				               data-about="Kindred builds machines with human-like intelligence."
+				               
+				               >
+				            Kindred
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.light.co"
+				               data-name="Light"
+				               data-about="The Light camera combines advanced optics with powerful software, making beautiful photography more accessible than ever before."
+				               
+				                 data-color="#00b0ed"
+				                 data-colorIsDark="1"
+				               >
+				            Light
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.getluma.com"
+				               data-name="Luma"
+				               data-about="Luma is a Surround WiFi System that delivers fast, secure WiFi to every corner of your home (even those spotty corners)."
+				               
+				                 data-color="#f48120"
+				                 data-colorIsDark="1"
+				               >
+				            Luma
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.luminatewireless.com"
+				               data-name="Luminate Wireless"
+				               data-about="Luminate Wireless is building the next generation mobile network in the cloud, leveraging the best of web-scale computing and cloud-enabled networking to simplify mobile network access and services delivery for enterprise customers."
+				               
+				               >
+				            Luminate Wireless
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.luxevalet.com"
+				               data-name="Luxe"
+				               data-about="Luxe is an on-demand valet parking service, sending valets to park your car wherever you are in San Francisco."
+				               
+				               >
+				            Luxe
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.google.com/makani"
+				               data-name="Makani"
+				               data-about="Makani hopes to accelerate the shift to clean, renewable energy by developing energy kites, a new type of wind turbine. (Makani was acquired by Google in May 2013.)"
+				               data-exit="* Acquired by Google, 2013"
+				                 data-color="#19b6ff"
+				                 data-colorIsDark="1"
+				               >
+				            Makani
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.mindsumo.com"
+				               data-name="MindSumo"
+				               data-about="MindSumo helps companies identify quality student recruits by having them solve real-world challenges to prove their skills."
+				               
+				               >
+				            MindSumo
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://momentummachines.com"
+				               data-name="Momentum Machines"
+				               data-about="Momentum Machines&#x27; technologies can produce an ever-growing list of foods like salads, sandwiches, hamburgers, and many other multi-ingredient choices with a gourmet focus."
+				               
+				                 data-color="#111111"
+				                 data-colorIsDark="1"
+				               >
+				            Momentum Machines
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://orbitalinsight.com"
+				               data-name="Orbital Insight"
+				               data-about="Orbital Insight uses advanced image processing and data science at petabyte scale to understand global trends, creating market intelligence for decision makers and investors in a wide range of industries."
+				               
+				                 data-color="#0a2d3d"
+				                 data-colorIsDark="1"
+				               >
+				            Orbital Insight
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.republicproject.com"
+				               data-name="Republic Project"
+				               data-about="Republic Project is a cloud-based ad platform that enables agencies and brands to improve brand engagement and purchasing behavior."
+				               data-exit="* Acquired by Digital Generation, 2013"
+				               >
+				            Republic Project
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://ripplefoods.com"
+				               data-name="Ripple Foods"
+				               data-about="Ripple produces a revolutionary plant-based milk that is dairy-free and delicious."
+				               
+				                 data-color="#268aac"
+				                 data-colorIsDark="1"
+				               >
+				            Ripple Foods
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.savioke.com"
+				               data-name="Savioke"
+				               data-about="Savioke is creating autonomous robots for the services industry. Savioke aims to improve the lives of people by developing and deploying robotic technology in the places people live and work."
+				               
+				                 data-color="#60c334"
+				                 data-colorIsDark="1"
+				               >
+				            Savioke
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.skycatch.com"
+				               data-name="Skycatch"
+				               data-about="Skycatch is a platform for capturing data at scale using small autonomous aerial robots."
+				               
+				                 data-color="#38b6e9"
+				                 data-colorIsDark="1"
+				               >
+				            Skycatch
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.transphormusa.com"
+				               data-name="Transphorm"
+				               data-about="Transphorm makes ultra-efficient power modules that eliminate up to 90% of all electric conversion losses. From HVACs to hybrids; servers to solar panels – Transphorm enables significant energy savings across the grid."
+				               
+				               >
+				            Transphorm
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.makewonder.com"
+				               data-name="Wonder Workshop"
+				               data-about="Wonder Workshop makes robotics fun and accessible for young kids."
+				               
+				                 data-color="#F70"
+				                 data-colorIsDark="1"
+				               >
+				            Wonder Workshop
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://flyzipline.com"
+				               data-name="Zipline"
+				               data-about="Zipline delivers lifesaving medicine to previously unreachable parts of the world using a fleet of autonomous electric airplanes."
+				               
+				                 data-color="#53c3c3"
+				                 data-colorIsDark="1"
+				               >
+				            Zipline
+				            
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

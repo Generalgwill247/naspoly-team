@@ -1,0 +1,77 @@
+  ___         __
+ / __\       / /
+| |  _      / /
+| | |_ \   / /
+| |__| |  / /
+ \_____|  \/
+
+The humans.txt file explains the team, technology,
+and graphic assets behind this site.
+
+_______________________________________________________________________________
+
+GV TEAM
+This website was hand-crafted by GV.
+
+Braden Kowitz
+Design & web development
+kowitz.co
+
+Daniel Burka
+Design & web development
+gv.com/team/daniel-burka
+
+Laura Melahn
+Content & copywriting
+gv.com/team/laura-melahn
+
+John Zeratsky
+Content & copywriting
+gv.com/team/john-zeratsky
+
+Kristen Brillantes
+Content & copywriting
+
+Jake Knapp
+Content & copywriting
+gv.com/team/jake-knapp
+
+Michael Margolis
+User research
+gv.com/team/michael-margolis
+
+_______________________________________________________________________________
+
+SPECIAL THANKS
+
+Viktor Persson
+Adam Debreczeni
+Brendan Pascoe
+Rachel Been
+Sehee Lee
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+Metalsmith - Static site generator
+metalsmith.io
+
+LESS - CSS pre-processor
+lesscss.org
+
+Handlebars - Semantic templates
+handlebarsjs.com
+
+Github - Code collaboration
+github.com
+
+JS libraries include:
+jQuery, Modernizr, respond.js, velocity-animate, slick-carousel
+
+_______________________________________________________________________________
+
+FONTS
+
+FF Mark
+ffmark.com

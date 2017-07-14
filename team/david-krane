@@ -1,0 +1,380 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/david-krane">
+		<meta name="twitter:title" content="GV / David Krane">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / David Krane">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/david-krane">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / David Krane</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-purple body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/david-krane.jpg"
+						alt="Photo of David Krane" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">David Krane</h2>
+						<p class="bio-title">CEO &amp; Managing Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>David is the CEO &amp; managing partner at GV and oversees the fund’s global activities. He invests in a wide range of technology companies including Uber, Nest, Blue Bottle Coffee, and Urban Engines. David’s Google career began more than 17 years ago, as director of Global Communications and Public Affairs. In this role, David oversaw the company’s strategic communications programs worldwide, and worked as a member of the senior leadership team to grow Google from a small startup to a multi-billion dollar global enterprise.</p>
+<p>David’s prior professional experience spanned both startup and public companies, including Apple Computer, QUALCOMM, Four11 (now Yahoo! Mail), and two computer security software developers.</p>
+<p>David received his Bachelor of Arts in journalism from Indiana University Bloomington. As a proud Hoosier alumnus, he serves on the Dean’s advisory board for the IU School of Informatics and Computer Science. David is also a member of Young President’s Organization (YPO), a trustee of San Francisco’s Contemporary Jewish Museum of Art, a Menlo/Atherton Little League baseball coach, and past board member of the Palo Alto Vista Center for the Blind. David resides in the Bay Area with his wife, three children, and their labradoodle.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/kraneland" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@kraneland
+						</a>
+						<a href="http://www.linkedin.com/pub/david-krane/0/29/712" class="bio-link theme-colorHover">
+							<div class="icon icon--linkedin icon--bio"></div>
+							linkedin
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://uber.com"
+				             data-name="Uber"
+				             data-about="Uber is evolving the way the world moves. By seamlessly connecting riders to drivers through mobile apps, they make cities more accessible, opening up more possibilities for riders and more business for drivers."
+				             
+				               data-color="#333"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/uber.png" alt="Uber logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #333;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://nest.com"
+				             data-name="Nest"
+				             data-about="Nest reinvents unloved but important home products, like the thermostat and smoke alarm. The company focuses on delighting customers with simple, beautiful and thoughtful hardware, software and services."
+				             data-exit="* Acquired by Google, 2014"
+				               data-color="#00b6de"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/nest.png" alt="Nest logo"/>
+				          <div class="portfolioLogos-note">Acquired by Google, 2014</div>
+				          <div class="portfolioLogos-background" style="background-color: #00b6de;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://bluebottlecoffee.com"
+				             data-name="Blue Bottle Coffee"
+				             data-about="Blue Bottle Coffee is an organic coffee roastery with the simple purpose of getting great coffee to everyone who asks for it."
+				             
+				               data-color="#01a1dd"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/blue-bottle.png" alt="Blue Bottle Coffee logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #01a1dd;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.urbanengines.com"
+				             data-name="Urban Engines"
+				             data-about="Urban Engines reduces congestion by combining insights and incentives to ease the time and stress of daily commutes."
+				             data-exit="* Acquired by Google, 2016"
+				               data-color="#f5c413"
+				               
+				             >
+				          <img class="portfolioLogos-image " src="/img/companies/urban-engines.png" alt="Urban Engines logo"/>
+				          <div class="portfolioLogos-note">Acquired by Google, 2016</div>
+				          <div class="portfolioLogos-background" style="background-color: #f5c413;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.airtime.com"
+				               data-name="Airtime"
+				               data-about="Airtime is a live social video company that uses the latest video technology to bring people together."
+				               
+				               >
+				            Airtime
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.circleup.com"
+				               data-name="CircleUp"
+				               data-about="CircleUp enables equity based crowdfunding for private consumer companies. Through CircleUp, individuals can invest collectively in outstanding private businesses."
+				               
+				               >
+				            CircleUp
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://homeaway.com"
+				               data-name="HomeAway"
+				               data-about="HomeAway is the world&#x27;s leading online marketplace for vacation rentals and bed &amp;amp; breakfasts, connecting homeowners, property managers and innkeepers with the millions of travelers who seek the space, privacy and affordability of alternative accommodations instead of hotels."
+				               data-exit="* NASDAQ: AWAY"
+				               >
+				            HomeAway
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.juicero.com"
+				               data-name="Juicero"
+				               data-about="Juicero is on a mission to help people consume more fresh produce every day with the first cold-press juicing system that makes raw, organic juice at the touch of a button."
+				               
+				               >
+				            Juicero
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               
+				               data-name="Luminate"
+				               data-about="Luminate makes online images interactive. With its first-of-a-kind platform for image apps, Luminate transforms static images into a canvas for shopping, sharing and exploring."
+				               data-exit="* Acquired by Yahoo, 2014"
+				               >
+				            Luminate
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.luvocracy.com"
+				               data-name="Luvocracy"
+				               data-about="Luvocracy is a marketplace built around social sharing and trusted tastemakers."
+				               data-exit="* Acquired by WalmartLabs, 2014"
+				               >
+				            Luvocracy
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://mixbit.com"
+				               data-name="MixBit"
+				               data-about="MixBit helps people tell great stories through video. You can record, edit, and publish videos from your phone, then collaborate with others to remix clips."
+				               
+				               >
+				            MixBit
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.nextdoor.com"
+				               data-name="Nextdoor"
+				               data-about="Nextdoor is a private social network for the neighborhood. Using Nextdoor’s online platform, neighbors get to know one another, exchange local advice, and organize virtual neighborhood watches to reduce crime."
+				               
+				               >
+				            Nextdoor
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.payrange.com"
+				               data-name="PayRange"
+				               data-about="PayRange is a simple mobile payment solution for machines of all types, including vending machines, parking meters, transit kiosks, laundromats, and more."
+				               
+				               >
+				            PayRange
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.scan.me"
+				               data-name="Scan"
+				               data-about="Scan connects the real world with the digital universe through QR codes and other mobile technologies."
+				               data-exit="* Acquired in 2014"
+				               >
+				            Scan
+				            <span class="companyList-exit">*</span>
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.twyla.com"
+				               data-name="Twyla"
+				               data-about="Twyla is changing the way people buy art by connecting them to exclusive limited edition works from top contemporary artists."
+				               
+				               >
+				            Twyla
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.weotta.com"
+				               data-name="Weotta"
+				               data-about="Weotta helps you discover, build, and share your infinite wish list of things to do and places to go."
+				               
+				               >
+				            Weotta
+				            
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>

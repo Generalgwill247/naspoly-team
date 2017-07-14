@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:domain" content="gv.com">
+		<meta name="twitter:site" content="@googleventures">
+		<meta name="twitter:url" content="http://gv.com/team/tom-hulme">
+		<meta name="twitter:title" content="GV / Tom Hulme">
+		<meta name="twitter:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta name="twitter:image:src" content="http://gv.com/img/press/twitter-card.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="GV / Tom Hulme">
+		<meta property="og:description" content="GV provides venture capital funding to bold new companies. In the fields of life science, healthcare, artificial intelligence, robotics, transportation, cyber security and agriculture, GV’s companies aim to improve lives and change industries.">
+		<meta property="og:url" content="http://gv.com/team/tom-hulme">
+		<meta property="og:site_name" content="Google Ventures">
+		<meta property="og:image" content="http://gv.com/img/press/twitter-card.jpg">
+		<title>GV / Tom Hulme</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css?v=1498865">
+		<link rel="icon" href="/img/favicons/32.png">
+		<link rel="apple-touch-icon" href="/img/favicons/180.png">
+		<script src="/js/modernizr.js" charset="utf-8"></script>
+		<!--[if lt IE 9 ]>
+  		<script src="/js/respond.min.js" charset="utf-8"></script>
+		<![endif]-->
+		<script type="text/javascript">
+			document.write("<style>.stagger { opacity: 0; }</style>");
+		</script>
+	</head>
+	<body class="theme-red body--noNavSlash">
+
+		<nav class="nav">
+			<div class="grid-container">
+				<a href="/"><img class="nav-logo" src="/img/icons/gv-black.png" alt="GV Logo"/></a>
+				<div class="nav-items theme-textColor">
+					<a class="nav-link " href="/team/">Team</a>
+					<a class="nav-link " href="/portfolio/">Portfolio</a>
+					<a class="nav-link " href="/library/">Library</a>
+				</div>
+			</div>
+		</nav>
+
+		<div role="main">
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-10-hd stagger">
+				<div class="bio-header">
+					<img
+						class="bio-photo stagger"
+						src="/img/team-large/tom-hulme.jpg"
+						alt="Photo of Tom Hulme" />
+					<div class="bio-headerText">
+						<h2 class="bio-name">Tom Hulme</h2>
+						<p class="bio-title">General Partner</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="grid-container">
+		<div class="grid-row">
+			<div class="grid-col-12 grid-col-11-tablet grid-col-10-desktop grid-col-9-hd">
+				<div class="bio-contents type-showLinks stagger">
+					<p>Tom is a general partner at GV. Prior to GV, Tom was a design director at IDEO Europe. He founded OpenIDEO, an open innovation platform where 100,000 users from more than 170 countries solve challenges for social good. Tom also launched OIEngine, a SaaS platform with clients including Harvard Business School and the Knight Foundation.</p>
+<p>Prior to IDEO, Tom was managing director of Marcos, a British sports car manufacturer and founded Magnom, a magnetic filter startup. Tom’s filter designs have been widely used in Formula One, superbikes, agricultural equipment, and central heating systems.</p>
+<p>Tom has also angel-invested in more than 20 companies, including as the founding investor in Mile IQ (sold to Microsoft). </p>
+<p>Tom has been recognized as a Young Global Leader by the World Economic Forum, and has been featured in WIRED UK’s Top 100 Digital Power Brokers list every year since the list was established. He has also been included in the Evening Standard list of London’s 1000 Most Influential People.</p>
+<p>Tom earned a first class bachelor’s degree in physics from the University of Bristol, and an MBA from Harvard Business School, where he received the Baker Scholar Award of high distinction. He also received an honorary doctorate from University of the Arts London.</p>
+
+				</div>
+				<div class="bio-linkSection stagger">
+						<a href="http://twitter.com/thulme" class="bio-link theme-colorHover">
+							<div class="icon icon--twitter icon--bio"></div>
+							@thulme
+						</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+		<hr/>
+		<section class="grid-container">
+			<div class="grid-row">
+				<div class="grid-col-12">
+					<h4>Investments</h4>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="bio-investmentLogos">
+				<div class="portfolioLogos">
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://isis-innovation.com"
+				             data-name="Oxford Sciences Innovation"
+				             data-about="Oxford Sciences Innovation is a fund that provides capital and business expertise to companies developed in Oxford University&#x27;s mathematical, physical, life sciences, and medical sciences divisions."
+				             
+				               data-color="#1d233b"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/oxford-sciences-innovation.png" alt="Oxford Sciences Innovation logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #1d233b;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				      <div class="grid-card-4 grid-card-3-tablet grid-card-2-desktop">
+				          <a class="portfolioLogos-logo js-companyModalLink"
+				             href="http://www.secretescapes.com"
+				             data-name="Secret Escapes"
+				             data-about="Secret Escapes offers exclusive rates for luxury hand-picked hotels and vacations."
+				             
+				               data-color="#ff8c00"
+				               data-colorIsDark="1"
+				             >
+				          <img class="portfolioLogos-image portfolioLogos-image--inverted" src="/img/companies/secret-escapes.png" alt="Secret Escapes logo"/>
+				          
+				          <div class="portfolioLogos-background" style="background-color: #ff8c00;"></div>
+				          <div class="portfolioLogos-fallback"></div>
+				        </a>
+				      </div>
+				</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				
+				<div class="companyList theme-textColor ">
+				 
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://cambridge-epigenetix.com"
+				               data-name="Cambridge Epigenetix"
+				               data-about="Cambridge Epigenetix is a biosciences company that aims to be the world leading provider of high quality, easy to use epigenetic tools."
+				               
+				                 data-color="#fcff49"
+				                 
+				               >
+				            Cambridge Epigenetix
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://carricktherapeutics.com"
+				               data-name="Carrick Therapeutics"
+				               data-about="Carrick Therapeutics aims to change the way cancer is treated by targeting the molecular pathways that drive the most aggressive and resistant forms of cancer."
+				               
+				               >
+				            Carrick Therapeutics
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.currencycloud.com"
+				               data-name="Currencycloud"
+				               data-about="Currencycloud is reimagining the way money flows through the global digital economy, allowing payment firms to remove the friction and inefficiencies of traditional cross-border payments using its flexible APIs."
+				               
+				               >
+				            Currencycloud
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://genomicsmedicineireland.ie"
+				               data-name="Genomics Medicine Ireland"
+				               data-about="Genomics Medicine Ireland is leading a large-scale research study across Ireland looking at the human genome to examine the relationship between genetics, health, and disease."
+				               
+				               >
+				            Genomics Medicine Ireland
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://lemonade.com"
+				               data-name="Lemonade"
+				               data-about="Lemonade is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics."
+				               
+				               >
+				            Lemonade
+				            
+				          </a>
+				        </div>
+				        <div class='grid-card-6 grid-card-3-tablet grid-card-2-desktop'>
+				            <a class="companyList-item js-companyModalLink"
+				               href="http://www.weave.works"
+				               data-name="Weaveworks"
+				               data-about="Weaveworks is the software company that develops Weave, the most productive way for developers to connect, observe, and control Docker containers."
+				               
+				               >
+				            Weaveworks
+				            
+				          </a>
+				        </div>
+				
+				</div>
+			</div>
+		</section>
+
+	<div class="companyModal">
+	  <div class="companyModal-container">
+	    <div class="companyModal-box">
+	      <div class="companyModal-boxContent">
+	        <h4 class="companyModal-name"></h4>
+	        <p class="companyModal-about"></p>
+	        <p class="companyModal-exit"></p>
+	        <p class="companyModal-investors"></p>
+	        <a class="companyModal-button button"></a>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+		</div>
+
+			<footer class="footer">
+				<div class="grid-container">
+					<div class="grid-row">
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="http://twitter.com/GVteam" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--twitter icon--large footer-icon"></div>Twitter
+								</div>
+							</a>
+							<a href="http://www.facebook.com/GoogleVentures/" class="theme-colorHover">
+								<div class="footer-item footer-item--social">
+										<div class="icon icon--facebook icon--large footer-icon"></div>Facebook
+								</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-3-tablet grid-col-2-desktop">
+							<a href="/press" class="theme-colorHover">
+								<div class="footer-item">Press page</div>
+							</a>
+							<a href="http://www.google.com/policies/privacy/" class="theme-colorHover">
+								<div class="footer-item">Privacy policy</div>
+							</a>
+						</div>
+						<div class="grid-col-12 grid-col-6-tablet">
+							<div class="footer-item">
+								This site is <a href="/humans.txt" class="theme-colorHover">hand-crafted by GV</a>.
+							</div>
+							<div class="footer-item">
+								&copy;2017 GV. All rights reserved.
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="/js/libraries.js"></script>
+		<script type="text/javascript" src="/js/site.js?v=1498865"></script>
+
+			<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-8048540-3']);
+			  _gaq.push(['_setDomainName', 'www.gv.com']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+		<script type="text/javascript">
+			setTimeout(function () {
+				$('.stagger').removeClass('stagger');
+			}, 2000);
+		</script>
+
+	</body>
+</html>
